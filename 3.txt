@@ -1,0 +1,4 @@
+telugu
+hindi
+english
+gk
