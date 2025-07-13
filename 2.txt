@@ -1,6 +1,4 @@
 abcd
 efgh
 ijkl
-mnop
-xxxx
-yyyy
+1234
